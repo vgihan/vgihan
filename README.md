@@ -12,6 +12,11 @@
 
 - **2018.03 ~ : Pusan National University, Computer Engineering**
 
+## 🌈 Experience
+
+- **2021.07 ~ 2021.08 : 네이버 부스트캠프 웹·모바일 6기 챌린지**
+- **2021.08 ~ : 네이버 부스트캠프 웹·모바일 6기 멤버십**
+
 <!--
 **vgihan/vgihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
