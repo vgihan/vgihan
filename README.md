@@ -1,4 +1,4 @@
-## 🌟 vgihan`s github 🌟
+## 🌟 vgihan's github 🌟
 
 [![vgihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vgihan&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
