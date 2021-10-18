@@ -10,7 +10,7 @@
 
 ## 📖 Education
 
-- **2018.03 ~ : Pusan National University, Computer Engineering**
+- **2018.03 ~ : Pusan National University, Computer Engineering **
 
 ## 🌈 Experience
 
