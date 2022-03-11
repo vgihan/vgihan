@@ -1,5 +1,6 @@
 <h1 align='center'>🌟 Welcome vgihan's github 🌟</h1>
 
+<p align='center'><b>Hi there, I am GiHan who is interested in Front-End Develop 🙋‍♂️</b></p>
 
 <h3> 🌀 Tech Stack </h3>
 
@@ -88,3 +89,18 @@
 <img src="https://github-readme-stats.vercel.app/api?username=vgihan" height="165">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jum456">
 </p>
+
+<h3>📞 Contact</h3>
+
+<div>
+<a href="mailto:jum45612@gmail.com">
+  <img src="https://camo.githubusercontent.com/e492243893c87d73f4e09479f0694fc9903ce3144c37b60048425ab7d9b17f03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d4541343333353f7374796c653d666c61742d737175617265266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+</a>
+<a href="mailto:jum654@naver.com">
+  <img src="https://camo.githubusercontent.com/067502ac6d9041c6a64281fc5337f574698b3bec6bd83d1f9193e68ac42da496/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e617665722d3033433735413f7374796c653d666c61742d737175617265266c6f676f3d6e61766572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/naver-03C75A?style=flat-square&amp;logo=naver&amp;logoColor=white" style="max-width: 100%;">
+</a>
+<a>
+  <img src="https://camo.githubusercontent.com/1b110f911ae5096e5e6a7548f2e870e7cad608dc154beac612df56f04f362dd1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d47697448756274266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=GitHubt&amp;logoColor=white" style="max-width: 100%;">
+</a>
+</div>
+
