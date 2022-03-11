@@ -86,7 +86,7 @@
 <h3>✉ Cards</h3>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=vgihan" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=vgihan&theme=tokyonight" height="165">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jum456">
 </p>
 
