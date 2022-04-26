@@ -56,7 +56,7 @@
     <td>BooduckSound</td>
     <td>팀</td>
     <td>온라인 노래 맞추기 웹 게임</td>
-    <td><a href='https://github.com/vgihan/web02-booducksound.git'>Repository</a></td>
+    <td><a href='https://github.com/boostcampwm-2021/web02-booducksound'>Repository</a></td>
   </tr>
 </table>
 
