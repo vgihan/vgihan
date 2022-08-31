@@ -45,11 +45,11 @@
   <th>설명</th>
   <th>레포지토리</th>
   <tr>
-    <td>2022.02 ~ 진행 중</td>
-    <td>Omok</td>
-    <td>개인</td>
-    <td>웹에서 즐길 수 있는 오목 게임</td>
-    <td><a href='https://github.com/vgihan/omok-front'>front</a> | <a href='https://github.com/vgihan/omok-back'>back</a></td>
+    <td>2022.07 ~</td>
+    <td>Photalks</td>
+    <td>팀</td>
+    <td>포토부스 정보 제공 서비스</td>
+    <td><a href='https://github.com/dnd-side-project/dnd-7th-6-frontend'>Repository</a></td>
   </tr>
   <tr>
     <td>2021.10 ~ 2021.12</td>
@@ -80,6 +80,16 @@
     <td>2021.08 ~ 2021.12</td>
     <td>네이버 부스트캠프 웹·모바일 6기 멤버십</td>
     <td>학습 스프린트 및 그룹 프로젝트 진행</td>
+  </tr>
+  <tr>
+    <td>2022.07 ~ 2022.09</td>
+    <td>DND 7기</td>
+    <td>포토부스 정보 제공 서비스 Photalks 개발</td>
+  </tr>
+  <tr>
+    <td>2022.07 ~</td>
+    <td>오픈소스 컨트리뷰션 아카데미</td>
+    <td>githru-vscode-extension contribution</td>
   </tr>
 </table>
 
