@@ -46,6 +46,13 @@
   <th>레포지토리</th>
   <tr>
     <td>2022.07 ~</td>
+    <td>githru-vscode-ext</td>
+    <td>오픈소스</td>
+    <td>github 메타데이터를 활용한 시각화</td>
+    <td><a href='https://github.com/githru/githru-vscode-ext'>Repository</a></td>
+  </tr>
+  <tr>
+    <td>2022.07 ~</td>
     <td>Photalks</td>
     <td>팀</td>
     <td>포토부스 정보 제공 서비스</td>
@@ -67,14 +74,14 @@
   <th>과정</th>
   <th>교육내용</th>
   <tr>
-    <td>2021.03 ~ 2021.07</td>
-    <td>SW 중심대학 실무형 산학협력 프로젝트</td>
-    <td>온라인 화상 강의 시스템 개발</td>
+    <td>2022.07 ~</td>
+    <td>오픈소스 컨트리뷰션 아카데미</td>
+    <td>githru-vscode-extension contribution</td>
   </tr>
   <tr>
-    <td>2021.07 ~ 2021.08</td>
-    <td>네이버 부스트캠프 웹·모바일 6기 챌린지</td>
-    <td>JavaScript 및 CS 지식 학습</td>
+    <td>2022.07 ~ 2022.09</td>
+    <td>IT 연합 동아리 DND 7기</td>
+    <td>포토부스 정보 제공 서비스 Photalks 개발</td>
   </tr>
   <tr>
     <td>2021.08 ~ 2021.12</td>
@@ -82,14 +89,14 @@
     <td>학습 스프린트 및 그룹 프로젝트 진행</td>
   </tr>
   <tr>
-    <td>2022.07 ~ 2022.09</td>
-    <td>DND 7기</td>
-    <td>포토부스 정보 제공 서비스 Photalks 개발</td>
+    <td>2021.07 ~ 2021.08</td>
+    <td>네이버 부스트캠프 웹·모바일 6기 챌린지</td>
+    <td>JavaScript 및 CS 지식 학습</td>
   </tr>
   <tr>
-    <td>2022.07 ~</td>
-    <td>오픈소스 컨트리뷰션 아카데미</td>
-    <td>githru-vscode-extension contribution</td>
+    <td>2021.03 ~ 2021.07</td>
+    <td>SW 중심대학 실무형 산학협력 프로젝트</td>
+    <td>온라인 화상 강의 시스템 개발</td>
   </tr>
 </table>
 
