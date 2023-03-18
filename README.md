@@ -1,6 +1,6 @@
 <h1 align='center'>🌟 Welcome vgihan's github 🌟</h1>
 
-<p align='center'><b>Hi there, I am GiHan who is interested in Front-End Develop 🙋‍♂️</b></p>
+<p align='center'><b>Hi there, I am GiHan who is Front-End Developer 🙋‍♂️</b></p>
 
 <h3> 🌀 Tech Stack </h3>
 
