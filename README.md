@@ -24,18 +24,6 @@
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
 </div>
 
-
-<b>I'm studying these days ...</b>
-
-<div>
-  <img src="https://img.shields.io/badge/Nestjs-e32743?style=flat-square&logo=Nestjs&logoColor=white%22"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReactQuery-ffd94c?style=flat-square&logo=react-query&logoColor=white%22"/>
-</div>
-  
-
-
-
 <h3> 💻 Project </h3>
 
 <table>
