@@ -2,11 +2,10 @@
 <h5>Web Frontend Developer</h5>
 <sub>
   The keyboard is mightier than the sword.<br/>
-  A Developers who create sustainable services by building solid code blocks
+  A Developer who create sustainable services by building solid code blocks
 </sub>
 
 <h5>⚒ Stacks</h5>
-
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
