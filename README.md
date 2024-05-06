@@ -1,7 +1,6 @@
 <h3>Gihan Kim</h3>
 <h5>Web Frontend Developer</h5>
 <sub>
-  The keyboard is mightier than the sword.<br/>
   A Developer who create sustainable services by building solid code blocks
 </sub>
 
