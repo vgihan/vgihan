@@ -1,9 +1,3 @@
-<h3>Gihan Kim</h3>
-<h5>Web Frontend Developer</h5>
-<sub>
-  A Developer who create sustainable services by building solid code blocks
-</sub>
-
 <h5>⚒ Stacks</h5>
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
@@ -14,7 +8,7 @@
 
 <h5>🛤 Work experience</h5>
 <sub>
-  2022.10 - Present | Tridge
+  2022.10 - 2025.05 | Tridge
 </sub>
 
 <h5>📚 Education</h5>
